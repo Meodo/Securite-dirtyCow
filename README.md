@@ -19,10 +19,10 @@ Cette faille marche que pour des versions du kernel inferieure à 4.8.3, en part
 #-----------DirtyCowDeb-8-0-0.sh-----------------
 #------------------------------------------------
 
-Ce script va telecharger une image de Debian8.0.0 qui contient deja tout le nécessaire, cette version de Debian utilise le kernel 3.16
+Ce script va ouvrir une page web google drive sur laquelle vous pourrez telecharger une machine virtuelle Debian8.0.0 qui contient deja tout le nécessaire, cette version de Debian utilise le kernel 3.16
 Aussi la faille fonctionne dans cet environnement.
 
-pour lancer la machine virtuelle, lancez la commade suivante dans le répertoire DirtyCowDeb-8-0-0:
+pour lancer la machine virtuelle, lancez la commande suivante dans le répertoire DirtyCowDeb-8-0-0:
 
 'virtualbox Debian-8-0-0.ova'
 
