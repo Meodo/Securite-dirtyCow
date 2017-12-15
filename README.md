@@ -28,6 +28,11 @@ pour lancer la machine virtuelle, lancez la commade suivante dans le répertoire
 
 VirtualBox va s'ouvrir et vous proposer d'importer l'appareil virtuel. Cliquez sur Importez puis lancez la machine virtuelle.
 
+Les logins de cette machien virtuelle sont:
+login : ensimag
+mdp : root
+
+
 Le code de la faille est présent dans le répertoire Documents/dirtycow/ de la machine virtuelle.
 
 Pour initialiser le fichier foo accessible en lecture seule, et pour créer l'exécutable dirtyc0w, lancez:
